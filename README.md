@@ -1,7 +1,7 @@
 # Lab Experience MQTT — pipeline completa
 
 Materiale per il task **"MQTT in the Wild — versione studenti"** assegnato dal Prof. Innamorati.
-Tutto è organizzato in 3 step (1 notebook + 1 script + 1 notebook), nello stesso spirito del paper di riferimento.
+Tutto è organizzato in 3 step (1 notebook + 1 script + 1 notebook).
 
 ## Vincoli ricordati dal prof.
 
